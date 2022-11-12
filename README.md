@@ -1,3 +1,3 @@
 ### Hola soy Jonathan Ospina 👋
 <div align="center"> 
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
